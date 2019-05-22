@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ritesh:ratiolayout:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2734ab00c683f238633d709d3430fd31/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2734ab00c683f238633d709d3430fd31/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ritesh/ratiolayout/1.0.0/37f285200ed62a2649da8a0f9425409edc7c425a/ratiolayout-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
