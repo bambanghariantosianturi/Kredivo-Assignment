@@ -34,7 +34,9 @@ public class BannerAdapter extends PagerAdapter {
         LayoutInflater inflater = (LayoutInflater) activity.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         View view = inflater.inflate(R.layout.item_banner, container, false);
         ImageView imageView = view.findViewById(R.id.img_banner);
-
+/**
+ * This Method Not Use for This Case
+ */
 //        view.setTag(position);
 //        view.setOnClickListener(v -> {
 //            int position1 = (Integer) v.getTag();
